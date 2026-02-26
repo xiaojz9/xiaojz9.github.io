@@ -1,3 +1,4 @@
+<img width="325" height="107" alt="image" src="https://github.com/user-attachments/assets/75837f45-38ed-4acc-89e6-cea7fcbde570" />
 ---
 layout: about
 title: about
@@ -9,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>4200 Engineering Gateway</p>
+    <p>University of California, Irvine</p>
+    <p>Irvine, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
