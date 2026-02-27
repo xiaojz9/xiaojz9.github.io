@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Kill To Love
-date: 2024-12-04 01:59:00
 description: 紫陌红尘
 tags: drama 
 categories: personal
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/IMG_4.jpg
 images:
   lightbox2: true
 ---
@@ -56,7 +55,7 @@ This is one of my favorite dramas.
        data-title="枯荣流转总在天">
       <img src="/assets/img/IMG_1.png">
     </a>
-    <div class="drama-title">Opening Scene</div>
+    <div class="drama-title">枯荣流转总在天</div>
     <div class="drama-desc">
       The emotional beginning that sets the tone of the entire story.
     </div>
@@ -67,7 +66,7 @@ This is one of my favorite dramas.
        data-title="我不想再提从前了">
       <img src="/assets/img/IMG_2.png">
     </a>
-    <div class="drama-title">Main Characters</div>
+    <div class="drama-title">我不想再提从前了</div>
     <div class="drama-desc">
       The chemistry between the protagonists makes this drama unforgettable.
     </div>
@@ -78,7 +77,7 @@ This is one of my favorite dramas.
        data-title="再来一次吧">
       <img src="/assets/img/IMG_3.png">
     </a>
-    <div class="drama-title">Climax</div>
+    <div class="drama-title">再来一次吧</div>
     <div class="drama-desc">
       A breathtaking turning point that changes everything.
     </div>
