@@ -2,14 +2,15 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: /about/
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  
+
+social: true # includes social icons at the bottom of the page
+
 ---
 
 I am a PhD student in Mechanical and Aerospace Engineering at UC Irvine.
@@ -22,5 +23,4 @@ My research focuses on:
 - GPU cooling systems
 
 I combine high-speed imaging, machine learning, and thermal-fluid modeling to understand two-phase heat transfer mechanisms.
-
 
