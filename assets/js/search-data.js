@@ -51,11 +51,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-kill-to-love",
         
-          title: "a post with image galleries",
+          title: "Kill To Love",
         
-        description: "this is what included image galleries could look like",
+        description: "紫陌红尘",
         section: "Posts",
         handler: () => {
           
