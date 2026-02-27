@@ -1,97 +1,98 @@
 ---
 layout: post
-title: a post with image galleries
+title: Kill To Love
 date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
-tags: formatting images
-categories: sample-posts
+description: 紫陌红尘
+tags: drama 
+categories: personal
 thumbnail: assets/img/9.jpg
 images:
   lightbox2: true
-  photoswipe: true
-  spotlight: true
-  venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
-
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+This is one of my favorite dramas.  
+“望来年梨花再开我们再重聚”
 
 ---
 
-## [PhotoSwipe](https://photoswipe.com/)
+<style>
+.drama-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
 
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-  </a>
-  <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
-    data-cropped="true"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" />
-  </a>
-  <!-- data-pswp-src with custom URL in href -->
-  <a href="https://unsplash.com"
-    data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-    data-pswp-width="2500"
-    data-pswp-height="1666"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt="" />
-  </a>
-  <!-- wrapped with any element: -->
-  <div>
-    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1667"
-      target="_blank">
-      <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt="" />
+.drama-item {
+  text-align: center;
+}
+
+.drama-item img {
+  width: 100%;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+.drama-item img:hover {
+  transform: scale(1.05);
+}
+
+.drama-title {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.drama-desc {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 5px;
+}
+</style>
+
+<div class="drama-gallery">
+
+  <div class="drama-item">
+    <a href="/assets/img/IMG_1.png" data-lightbox="drama"
+       data-title="枯荣流转总在天">
+      <img src="/assets/img/IMG_1.png">
     </a>
+    <div class="drama-title">Opening Scene</div>
+    <div class="drama-desc">
+      The emotional beginning that sets the tone of the entire story.
+    </div>
   </div>
+
+  <div class="drama-item">
+    <a href="/assets/img/IMG_2.png" data-lightbox="drama"
+       data-title="我不想再提从前了">
+      <img src="/assets/img/IMG_2.png">
+    </a>
+    <div class="drama-title">Main Characters</div>
+    <div class="drama-desc">
+      The chemistry between the protagonists makes this drama unforgettable.
+    </div>
+  </div>
+
+  <div class="drama-item">
+    <a href="/assets/img/IMG_3.png" data-lightbox="drama"
+       data-title="再来一次吧">
+      <img src="/assets/img/IMG_3.png">
+    </a>
+    <div class="drama-title">Climax</div>
+    <div class="drama-desc">
+      A breathtaking turning point that changes everything.
+    </div>
+  </div>
+
 </div>
 
 ---
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
+## Why I Love This Drama
 
-<!-- Group 1 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
-    </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
-    </a>
-</div>
+- Strong character development  
+- Emotional storytelling  
+- Beautiful cinematography  
+- Memorable soundtrack  
 
----
 
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
