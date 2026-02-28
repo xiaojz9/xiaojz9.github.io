@@ -56,6 +56,23 @@ When the pear blossoms bloom again, may we be reunited.
   color: #555;
   margin-top: 5px;
 }
+
+
+.bili-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;   /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.bili-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 </style>
 
 <div class="drama-gallery">
@@ -100,13 +117,15 @@ When the pear blossoms bloom again, may we be reunited.
     </div>
   </div>
 
-  <div style="max-width: 800px; margin: 50px auto; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius:12px;">
-    <iframe 
-      src="//player.bilibili.com/player.html?bvid=BV1PqxKzkEty&page=1"
-      style="position:absolute; top:0; left:0; width:100%; height:100%;"
-      frameborder="0"
-      allowfullscreen>
-    </iframe>
+  <!-- 视频 5 -->
+  <div class="drama-item drama-video">
+    <div class="bili-wrapper">
+      <iframe 
+        src="https://player.bilibili.com/player.html?bvid=BV1PqxKzkEty&page=1"
+        frameborder="0"
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>
 
 
