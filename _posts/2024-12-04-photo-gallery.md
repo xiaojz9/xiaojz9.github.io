@@ -89,7 +89,10 @@ When the pear blossoms bloom again, may we be reunited.
     </video>
     <div class="drama-title">Official Trailer</div>
     <div class="drama-desc">
-      The official trailer that captures the essence of the drama.
+      Who is calling me Shu He now?
+      The son of a salt merchant,
+      the orphan of General Duan’s house,
+      an assassin ablaze with hatred—
     </div>
   </div>
 
@@ -99,7 +102,7 @@ When the pear blossoms bloom again, may we be reunited.
     </video>
     <div class="drama-title">Official Trailer</div>
     <div class="drama-desc">
-      The official trailer that captures the essence of the drama.
+      Or the Jibei agent who has calculated every step?
     </div>
   </div>
 
@@ -109,7 +112,7 @@ When the pear blossoms bloom again, may we be reunited.
     </video>
     <div class="drama-title">Official Trailer</div>
     <div class="drama-desc">
-      The official trailer that captures the essence of the drama.
+      Don’t cry. Your tears wound me more than a sword ever could.
     </div>
   </div>
 
@@ -119,7 +122,7 @@ When the pear blossoms bloom again, may we be reunited.
     </video>
     <div class="drama-title">Official Trailer</div>
     <div class="drama-desc">
-      The official trailer that captures the essence of the drama.
+      You lied to me… all my life.
     </div>
   </div>
   
