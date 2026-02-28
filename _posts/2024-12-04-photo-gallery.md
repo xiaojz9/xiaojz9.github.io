@@ -60,40 +60,6 @@ When the pear blossoms bloom again, may we be reunited.
 
 <div class="drama-gallery">
 
-  <!-- 图片 -->
-  <div class="drama-item">
-    <a href="/assets/img/IMG_1.png" data-lightbox="drama"
-       data-title="枯荣流转总在天">
-      <img src="/assets/img/IMG_1.png">
-    </a>
-    <div class="drama-title">枯荣流转总在天</div>
-    <div class="drama-desc">
-      Withering and flourishing are all decreed by fate.
-    </div>
-  </div>
-
-  <div class="drama-item">
-    <a href="/assets/img/IMG_2.png" data-lightbox="drama"
-       data-title="我不想再提从前了">
-      <img src="/assets/img/IMG_2.png">
-    </a>
-    <div class="drama-title">我不想再提从前了</div>
-    <div class="drama-desc">
-      I don’t want to talk about the past anymore.
-    </div>
-  </div>
-
-  <div class="drama-item">
-    <a href="/assets/img/IMG_3.png" data-lightbox="drama"
-       data-title="再来一次吧">
-      <img src="/assets/img/IMG_3.png">
-    </a>
-    <div class="drama-title">再来一次吧</div>
-    <div class="drama-desc">
-      If only we could try again.
-    </div>
-  </div>
-
   <!-- 视频 1 -->
   <div class="drama-item drama-video">
     <video controls>
@@ -131,6 +97,40 @@ When the pear blossoms bloom again, may we be reunited.
     </video>
     <div class="drama-desc">
       You lied to me… all my life.
+    </div>
+  </div>
+
+  <!-- 图片 -->
+  <div class="drama-item">
+    <a href="/assets/img/IMG_1.png" data-lightbox="drama"
+       data-title="枯荣流转总在天">
+      <img src="/assets/img/IMG_1.png">
+    </a>
+    <div class="drama-title">枯荣流转总在天</div>
+    <div class="drama-desc">
+      Withering and flourishing are all decreed by fate.
+    </div>
+  </div>
+
+  <div class="drama-item">
+    <a href="/assets/img/IMG_2.png" data-lightbox="drama"
+       data-title="我不想再提从前了">
+      <img src="/assets/img/IMG_2.png">
+    </a>
+    <div class="drama-title">我不想再提从前了</div>
+    <div class="drama-desc">
+      I don’t want to talk about the past anymore.
+    </div>
+  </div>
+
+  <div class="drama-item">
+    <a href="/assets/img/IMG_3.png" data-lightbox="drama"
+       data-title="再来一次吧">
+      <img src="/assets/img/IMG_3.png">
+    </a>
+    <div class="drama-title">再来一次吧</div>
+    <div class="drama-desc">
+      If only we could try again.
     </div>
   </div>
 
