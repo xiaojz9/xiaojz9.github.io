@@ -84,6 +84,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/riluodadao/";
           
         },
+      },{id: "post-青色陆地之下",
+        
+          title: "青色陆地之下",
+        
+        description: "푸른 뭍 아래로 by  금기, 이선의",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/c1/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
