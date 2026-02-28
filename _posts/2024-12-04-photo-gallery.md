@@ -57,7 +57,7 @@ This is one of my favorite dramas.
     </a>
     <div class="drama-title">枯荣流转总在天</div>
     <div class="drama-desc">
-      The emotional beginning that sets the tone of the entire story.
+      Withering and flourishing are all decreed by fate.
     </div>
   </div>
 
@@ -68,7 +68,7 @@ This is one of my favorite dramas.
     </a>
     <div class="drama-title">我不想再提从前了</div>
     <div class="drama-desc">
-      The chemistry between the protagonists makes this drama unforgettable.
+      I don’t want to talk about the past anymore.
     </div>
   </div>
 
@@ -79,19 +79,53 @@ This is one of my favorite dramas.
     </a>
     <div class="drama-title">再来一次吧</div>
     <div class="drama-desc">
-      A breathtaking turning point that changes everything.
+      If only we could try again.
     </div>
   </div>
 
+  <div class="drama-item">
+    <video controls style="width:100%; border-radius:12px;">
+      <source src="/assets/video/KTL1.mp4" type="video/mp4">
+    </video>
+    <div class="drama-title">Official Trailer</div>
+    <div class="drama-desc">
+      The official trailer that captures the essence of the drama.
+    </div>
+  </div>
+
+    <div class="drama-item">
+    <video controls style="width:100%; border-radius:12px;">
+      <source src="/assets/video/KTL2.mp4" type="video/mp4">
+    </video>
+    <div class="drama-title">Official Trailer</div>
+    <div class="drama-desc">
+      The official trailer that captures the essence of the drama.
+    </div>
+  </div>
+
+    <div class="drama-item">
+    <video controls style="width:100%; border-radius:12px;">
+      <source src="/assets/video/KTL3.mp4" type="video/mp4">
+    </video>
+    <div class="drama-title">Official Trailer</div>
+    <div class="drama-desc">
+      The official trailer that captures the essence of the drama.
+    </div>
+  </div>
+
+    <div class="drama-item">
+    <video controls style="width:100%; border-radius:12px;">
+      <source src="/assets/video/KTL4.mp4" type="video/mp4">
+    </video>
+    <div class="drama-title">Official Trailer</div>
+    <div class="drama-desc">
+      The official trailer that captures the essence of the drama.
+    </div>
+  </div>
+  
 </div>
 
 ---
 
-## Why I Love This Drama
-
-- Strong character development  
-- Emotional storytelling  
-- Beautiful cinematography  
-- Memorable soundtrack  
 
 
