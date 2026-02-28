@@ -36,6 +36,16 @@ When the pear blossoms bloom again, may we be reunited.
   transform: scale(1.05);
 }
 
+/* 关键修改：视频独占一整行 */
+.drama-video {
+  grid-column: 1 / -1;
+}
+
+.drama-video video {
+  width: 100%;
+  border-radius: 16px;
+}
+
 .drama-title {
   font-weight: 600;
   margin-top: 10px;
@@ -50,6 +60,7 @@ When the pear blossoms bloom again, may we be reunited.
 
 <div class="drama-gallery">
 
+  <!-- 图片 -->
   <div class="drama-item">
     <a href="/assets/img/IMG_1.png" data-lightbox="drama"
        data-title="枯荣流转总在天">
@@ -83,49 +94,50 @@ When the pear blossoms bloom again, may we be reunited.
     </div>
   </div>
 
-  <div class="drama-item">
-    <video controls style="width:100%; border-radius:12px;">
+  <!-- 视频 1 -->
+  <div class="drama-item drama-video">
+    <video controls>
       <source src="/assets/video/KTL1.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Official Trailer</div>
+    <div class="drama-title">Scene I</div>
     <div class="drama-desc">
-      Who is calling me Shu He now?
-      The son of a salt merchant,
-      the orphan of General Duan’s house,
-      an assassin ablaze with hatred—
+      Who is calling me Shu He now? The son of a salt merchant...
     </div>
   </div>
 
-    <div class="drama-item">
-    <video controls style="width:100%; border-radius:12px;">
+  <!-- 视频 2 -->
+  <div class="drama-item drama-video">
+    <video controls>
       <source src="/assets/video/KTL2.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Official Trailer</div>
+    <div class="drama-title">Scene II</div>
     <div class="drama-desc">
       Or the Jibei agent who has calculated every step?
     </div>
   </div>
 
-    <div class="drama-item">
-    <video controls style="width:100%; border-radius:12px;">
+  <!-- 视频 3 -->
+  <div class="drama-item drama-video">
+    <video controls>
       <source src="/assets/video/KTL3.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Official Trailer</div>
+    <div class="drama-title">Scene III</div>
     <div class="drama-desc">
       Don’t cry. Your tears wound me more than a sword ever could.
     </div>
   </div>
 
-    <div class="drama-item">
-    <video controls style="width:100%; border-radius:12px;">
+  <!-- 视频 4 -->
+  <div class="drama-item drama-video">
+    <video controls>
       <source src="/assets/video/KTL4.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Official Trailer</div>
+    <div class="drama-title">Scene IV</div>
     <div class="drama-desc">
       You lied to me… all my life.
     </div>
   </div>
-  
+
 </div>
 
 ---
