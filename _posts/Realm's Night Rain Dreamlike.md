@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kill To Love
-description: 紫陌红尘
+title: Realm's Night Rain Dreamlike
+description: 江湖夜雨终似梦
 tags: drama 
 categories: personal
-thumbnail: assets/img/IMG_4.jpg
+thumbnail: assets/img/IMG_5.jpg
 images:
   lightbox2: true
 ---
 
-When the pear blossoms bloom again, may we be reunited.  
-“望来年梨花再开我们再重聚”
+Live on, and live well.  
+“好好活着”
 
 ---
 
@@ -63,76 +63,23 @@ When the pear blossoms bloom again, may we be reunited.
   <!-- 视频 1 -->
   <div class="drama-item drama-video">
     <video controls>
-      <source src="/assets/video/KTL1.mp4" type="video/mp4">
+      <source src="/assets/video/JHYYZSM1.mp4" type="video/mp4">
     </video>
     <div class="drama-desc">
-      Who is calling me Shu He now? The son of a salt merchant, the orphaned heir of General Duan’s fallen house, an assassin ablaze with hatred—
+     吾妻尚年少
     </div>
   </div>
 
   <!-- 视频 2 -->
   <div class="drama-item drama-video">
     <video controls>
-      <source src="/assets/video/KTL2.mp4" type="video/mp4">
+      <source src="/assets/video/JHYYZSM2.mp4" type="video/mp4">
     </video>
     <div class="drama-desc">
-      Or the Jibei agent who has calculated every step?
+      怜语慰卿卿
     </div>
   </div>
 
-  <!-- 视频 3 -->
-  <div class="drama-item drama-video">
-    <video controls>
-      <source src="/assets/video/KTL3.mp4" type="video/mp4">
-    </video>
-    <div class="drama-desc">
-      Don’t cry. Your tears wound me more than a sword ever could.
-    </div>
-  </div>
-
-  <!-- 视频 4 -->
-  <div class="drama-item drama-video">
-    <video controls>
-      <source src="/assets/video/KTL4.mp4" type="video/mp4">
-    </video>
-    <div class="drama-desc">
-      You lied to me… all my life.
-    </div>
-  </div>
-
-  <!-- 图片 -->
-  <div class="drama-item">
-    <a href="/assets/img/IMG_1.png" data-lightbox="drama"
-       data-title="枯荣流转总在天">
-      <img src="/assets/img/IMG_1.png">
-    </a>
-    <div class="drama-title">枯荣流转总在天</div>
-    <div class="drama-desc">
-      Withering and flourishing are all decreed by fate.
-    </div>
-  </div>
-
-  <div class="drama-item">
-    <a href="/assets/img/IMG_2.png" data-lightbox="drama"
-       data-title="我不想再提从前了">
-      <img src="/assets/img/IMG_2.png">
-    </a>
-    <div class="drama-title">我不想再提从前了</div>
-    <div class="drama-desc">
-      I don’t want to talk about the past anymore.
-    </div>
-  </div>
-
-  <div class="drama-item">
-    <a href="/assets/img/IMG_3.png" data-lightbox="drama"
-       data-title="再来一次吧">
-      <img src="/assets/img/IMG_3.png">
-    </a>
-    <div class="drama-title">再来一次吧</div>
-    <div class="drama-desc">
-      If only we could try again.
-    </div>
-  </div>
 
 </div>
 
