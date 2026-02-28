@@ -9,7 +9,7 @@ images:
   lightbox2: true
 ---
 
-This is one of my favorite dramas.  
+When the pear blossoms bloom again, may we be reunited.
 “望来年梨花再开我们再重聚”
 
 ---
