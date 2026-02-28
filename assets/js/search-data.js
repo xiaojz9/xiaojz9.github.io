@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-kill-to-love",
+        
+          title: "Kill To Love",
+        
+        description: "紫陌红尘",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/photo-gallery/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
