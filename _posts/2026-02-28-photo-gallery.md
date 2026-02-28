@@ -100,6 +100,16 @@ When the pear blossoms bloom again, may we be reunited.
     </div>
   </div>
 
+  <div style="max-width: 800px; margin: 50px auto; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius:12px;">
+    <iframe 
+      src="//player.bilibili.com/player.html?bvid=BV1PqxKzkEty&page=1"
+      style="position:absolute; top:0; left:0; width:100%; height:100%;"
+      frameborder="0"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+
   <!-- 图片 -->
   <div class="drama-item">
     <a href="/assets/img/IMG_1.png" data-lightbox="drama"
