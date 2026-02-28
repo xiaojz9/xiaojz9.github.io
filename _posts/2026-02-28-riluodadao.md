@@ -2,7 +2,7 @@
 layout: post
 title: Sunset Boulevard
 date: 2025-03-20 20:00:00
-description: 日落大道
+description: 日落大道 by 卡比丘
 tags: novel
 categories: personal
 
