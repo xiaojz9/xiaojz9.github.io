@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/photo-gallery/";
           
         },
+      },{id: "post-realm-39-s-night-rain-dreamlike",
+        
+          title: "Realm&#39;s Night Rain Dreamlike",
+        
+        description: "江湖夜雨终似梦",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Realm's-Night-Rain-Dreamlike/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
