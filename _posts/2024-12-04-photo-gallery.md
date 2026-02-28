@@ -66,7 +66,7 @@ When the pear blossoms bloom again, may we be reunited.
       <source src="/assets/video/KTL1.mp4" type="video/mp4">
     </video>
     <div class="drama-desc">
-      Who is calling me Shu He now? The son of a salt merchant, the orphan of General Duan’s house, an assassin ablaze with hatred—
+      Who is calling me Shu He now? The son of a salt merchant, the orphaned heir of General Duan’s fallen house, an assassin ablaze with hatred—
     </div>
   </div>
 
