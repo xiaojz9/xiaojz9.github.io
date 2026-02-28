@@ -77,7 +77,7 @@ ninja.data = [{
         
           title: "Sunset Boulevard",
         
-        description: "日落大道",
+        description: "日落大道 by 卡比丘",
         section: "Posts",
         handler: () => {
           
