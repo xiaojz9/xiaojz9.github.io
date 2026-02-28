@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/Realm's-Night-Rain-Dreamlike/";
           
         },
+      },{id: "post-sunset-boulevard",
+        
+          title: "Sunset Boulevard",
+        
+        description: "日落大道",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/riluodadao/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
