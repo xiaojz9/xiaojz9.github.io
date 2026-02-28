@@ -99,7 +99,6 @@ When the pear blossoms bloom again, may we be reunited.
     <video controls>
       <source src="/assets/video/KTL1.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Scene I</div>
     <div class="drama-desc">
       Who is calling me Shu He now? The son of a salt merchant...
     </div>
@@ -110,7 +109,6 @@ When the pear blossoms bloom again, may we be reunited.
     <video controls>
       <source src="/assets/video/KTL2.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Scene II</div>
     <div class="drama-desc">
       Or the Jibei agent who has calculated every step?
     </div>
@@ -121,7 +119,6 @@ When the pear blossoms bloom again, may we be reunited.
     <video controls>
       <source src="/assets/video/KTL3.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Scene III</div>
     <div class="drama-desc">
       Don’t cry. Your tears wound me more than a sword ever could.
     </div>
@@ -132,7 +129,6 @@ When the pear blossoms bloom again, may we be reunited.
     <video controls>
       <source src="/assets/video/KTL4.mp4" type="video/mp4">
     </video>
-    <div class="drama-title">Scene IV</div>
     <div class="drama-desc">
       You lied to me… all my life.
     </div>
