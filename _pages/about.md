@@ -24,5 +24,3 @@ My research focuses on:
 - GPU cooling systems
 
 I combine high-speed imaging, machine learning, and thermal-fluid modeling to understand two-phase heat transfer mechanisms.
-
-social: false
